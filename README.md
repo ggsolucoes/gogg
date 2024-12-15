@@ -6,3 +6,11 @@ Vamos criar a versão inicial da biblioteca gogg. Esta biblioteca vai permitir q
 Coma a conclusão deste projeto, poderemos partir para a criação de uma extensão do VSCode que permita a edição visual de telas com drag drop.
 
 E por último, poderemos criar um conversor que converta aplicações Delphi e Lazarus legadas para gogg. Migrando os desenvolvedores delphi para o mundo GO.
+
+# Estrutura Geral
+
+A biblioteca gogg gera as telas em HTML para que sejam apresentadas em um navegador web, mas o objetivo inicial é criar telas semelhantes as que criamos no delphi, desta forma não teremos durante as primeiras versões questões de responsividade e tratamentos voltados para aplicações web.
+
+O objetivo é criar aplicações desktop, assim como o Delphi, a única diferença é que a visualização das telas será realizada no navegador.
+
+As versões iniciais visam migrar as aplicações legadas Delphi para um tecnologia moderna e possibilitar o uso das diversas inovações trazidas pela linguagem GO.
