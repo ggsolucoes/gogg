@@ -17,9 +17,9 @@ As versões iniciais visam migrar as aplicações legadas Delphi para um tecnolo
 
 # Visão
 
-v1 (2025) -> O objetivo é fazer algo que permita que desenvolvedores Delphi migrem para o GO sem impacto de experiência.
-v2 (2026) -> Evoluir a lib para que comece a permitir a criação de aplicações com foco na web moderna (responsividade e separação de front-end e back-end)
-v3 (2027) -> Evoluir a lib para que comece a permitir a criação de aplicações mobile, neste caso, realizando o transpiling para liguagens nativas e compilar Apps nativamente.
+* v1 (2025) -> O objetivo é fazer algo que permita que desenvolvedores Delphi migrem para o GO sem impacto de experiência.
+* v2 (2026) -> Evoluir a lib para que comece a permitir a criação de aplicações com foco na web moderna (responsividade e separação de front-end e back-end)
+* v3 (2027) -> Evoluir a lib para que comece a permitir a criação de aplicações mobile, neste caso, realizando o transpiling para liguagens nativas e compilar Apps nativamente.
 
 # Missão
 
